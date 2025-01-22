@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "titulo": "Medias de algodon rayadas",
+        "descripcion": "Comodidad y suavidad todo el día. Estas medias de algodón ofrecen un ajuste perfecto y un toque de color cálido para tu día a día.",
+        "categoria": "medias",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Medias Cinemáticas - Negro y Rojo",
+        "descripcion": "Sumérgete en el mundo del cine con estas medias únicas. Con un diseño en negro y rojo y dibujos de iconos icónicos del cine, estas medias aportan un toque moderno y creativo a tu atuendo.",
+        "categoria": "medias",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Medias Stance - Azul y Amarillo",
+        "descripcion": "Estas medias Stance son el complemento perfecto para tu estilo deportivo. Con un diseño vibrante en azul y amarillo, y un logo distintivo, ofrecen un ajuste cómodo y un look único para quienes buscan destacar.",
+        "categoria": "medias",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Medias Basset - Negras Clásicas",
+        "descripcion": "Las medias Basset en color negro son la opción perfecta para un look elegante y cómodo. Con el distintivo logotipo de la marca, estas medias ofrecen un ajuste ideal y durabilidad, ideales para el día a día o una ocasión especial.",
+        "categoria": "medias",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Remera Atlanta - Blanca con Mangas Rebatibles",
+        "descripcion": "Añade un toque de estilo y comodidad a tu armario con la remera blanca Atlanta. Con un diseño moderno y femenino, sus amplias mangas rebatibles ofrecen una gran libertad de movimiento y un look único. Perfecta para cualquier ocasión, desde un día casual hasta una salida más especial.",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Remera Nike - Rosa Deportivo",
+        "descripcion": "Luce un estilo deportivo y fresco con esta remera rosa de Nike. Con su diseño minimalista y logo de la marca en el pecho, esta prenda es perfecta para tus entrenamientos o para un look casual. Confort y estilo se combinan para ofrecerte la mejor experiencia",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Remera Nike - Blanca y Azul",
+        "descripcion": "Combina estilo y rendimiento con esta remera Nike en colores blanco y azul. Su diseño moderno con el icónico logo en contraste es perfecto para un look deportivo y casual. Ideal para tus entrenamientos o para un día cómodo fuera del gimnasio.",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Remera Larga Mujer - FUARK",
+        "descripcion": "Con un diseño único y motivador, esta remera larga blanca es perfecta para quienes buscan estilo y actitud. Con mangas que cubren el codo y un mensaje inspirador en la parte trasera, es ideal para un look deportivo y empoderado.",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Remera Negra Hombre - L'ARTE Ameluminis Saint",
+        "descripcion": "Luce un estilo único con esta remera negra de hombre. Con un estampado en la espalda y un mensaje que destaca en el frente, esta prenda mezcla arte y estilo moderno, perfecta para quienes buscan un look original y distintivo.",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Pantalón Ancho Mujer - Con Bolsillos y Elásticos",
+        "descripcion": "Este pantalón ancho para mujer es la combinación perfecta de comodidad y estilo. Con un diseño suelto, grandes bolsillos y elásticos en la cintura y tobillos, ofrece un ajuste perfecto y un look relajado. Ideal para el día a día o un look casual con un toque único.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Pantalón Rosa Mujer - Poliéster",
+        "descripcion": "Este pantalón rosa para mujer está hecho de poliéster, un material ligero y duradero, ideal para un look cómodo y moderno. Con dos bolsillos en la parte superior y dos grandes bolsillos sobre la rodilla, ofrece estilo y funcionalidad. Su corte largo, ancho y suelto, junto con el botón ajustable en la cintura, asegura un ajuste perfecto para tu día a día.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Pantalón Azul Hombre - Kappa",
+        "descripcion": "Este pantalón azul de Kappa es perfecto para un look deportivo y cómodo. Con el emblemático logo blanco de las dos figuras sentadas apoyadas una en la otra, símbolo de colaboración, y detalles con elástico en la cintura y tobillos, ofrece un ajuste ideal para el día a día.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Pantalón Mujer - Azul Jean con Corte Ajustado y Ancho",
+        "descripcion": "Este pantalón de mujer en azul jean combina lo mejor de un ajuste perfecto en la parte superior con un corte ancho en la parte inferior, ofreciendo comodidad y estilo. Con 6 bolsillos funcionales, es ideal para quienes buscan un look práctico y moderno.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Pantalón Mujer - Amarillo Con Elástico y Corte Ancho",
+        "descripcion": "Este pantalón amarillo para mujer destaca por su estilo único y cómodo. Con elástico en la cintura y un corte que llega justo por encima de los tobillos, ofrece un ajuste perfecto. Las mangas muy anchas le dan un toque moderno y fresco, ideal para un look relajado y lleno de energía.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Pantalón Mujer - Jean",
+        "descripcion": "Este pantalón de jean para mujer ofrece un corte ajustado que resalta tu figura. Con un diseño clásico y moderno, llega justo por encima de los tobillos, brindando un look estilizado y cómodo. Ideal para quienes buscan un pantalón versátil y fácil de combinar.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Pantalón Corto Mujer - Amarillo de Jean",
+        "descripcion": "Este pantalón corto de mujer en un vibrante color amarillo es perfecto para el verano. Con un diseño de jean que ofrece comodidad y frescura, es ideal para un look casual y moderno. Perfecto para combinar con tus prendas favoritas y disfrutar del calor con estilo.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Buzo Mujer - Rojo con Capucha y Estampado Rolling Stones",
+        "descripcion": "Este buzo rojo para mujer es el complemento perfecto para un look casual y con actitud. Con una capucha cómoda y el icónico estampado de los Rolling Stones, es ideal para quienes aman el rock y el estilo urbano. Confort y estilo en una sola prenda.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Buzo Mujer GAP - Modern Red con Capucha",
+        "descripcion": "Este buzo de mujer de GAP en color Modern Red es perfecto para un look cómodo y moderno. Con capucha ajustable, ofrece calidez y estilo en cualquier ocasión. Ideal para quienes buscan una prenda casual y versátil con el toque clásico de GAP.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Buzo Mujer - Gris Oscuro con Estampado Mickey",
+        "descripcion": "Este buzo gris oscuro para mujer combina comodidad y estilo con un icónico estampado de Mickey. Ideal para quienes buscan un toque divertido y nostálgico en su look, es perfecto para un outfit casual y relajado con mucha personalidad.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Buzo Mujer New Balance - Negro Tipo Pullover",
+        "descripcion": "Este buzo tipo pullover de New Balance en color negro es perfecto para un look cómodo y deportivo. Con un diseño sencillo y elegante, ofrece calidez y libertad de movimiento, ideal para el día a día o para tus entrenamientos. El logo de New Balance en el pecho le da un toque distintivo y moderno.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 21,
+        "titulo": "Buzo Mujer - Azul con Capucha y Bolsillos Tipo Canguro",
+        "descripcion": "Este buzo azul para mujer es la combinación perfecta de estilo y comodidad. Con capucha ajustable y bolsillos tipo canguro, es ideal para mantenerte abrigada mientras luces un look relajado y moderno. Perfecto para tus días casuales o para un toque deportivo y cómodo.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 22,
+        "titulo": "Buzo Hombre Rip Curl - Verde con Capucha",
+        "descripcion": "Este buzo verde para hombre de Rip Curl ofrece un estilo cómodo y moderno. Con capucha ajustable y el logo de la marca en el pecho, es perfecto para un look relajado y deportivo. Ideal para los amantes del surf o para quienes buscan un toque fresco en su atuendo diario.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 23,
+        "titulo": "Buzo Mujer - Verde con Capucha ",
+        "descripcion": "Este buzo verde para mujer con capucha es perfecto para quienes buscan comodidad y un mensaje inspirador. Con el texto 'Stay Original Forever', transmite un estilo único y auténtico. Ideal para un look casual y relajado, perfecto para el día a día.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    }
+]
